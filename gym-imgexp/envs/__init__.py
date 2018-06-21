@@ -1,2 +1,2 @@
-from gym_foo.envs.foo_env import FooEnv
-from gym_foo.envs.foo_extrahard_env import FooExtraHardEnv
+from gym_imgexp.envs.imgexp_env import ImgexpEnv
+from gym_imgexp.envs.imgexp_extrahard_env import ImgexpExtraHardEnv
